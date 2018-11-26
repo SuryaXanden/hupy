@@ -258,8 +258,4 @@ def index():
         return('Request Dead')
 
 if __name__ == '__main__':
-<<<<<<< HEAD:app.py
     app.run()
-=======
-    app.run(debug=True)
->>>>>>> c0045295ce59e3f7e0b615d24386197ca2c6c651:app.py
